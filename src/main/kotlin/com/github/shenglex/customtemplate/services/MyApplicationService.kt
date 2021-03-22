@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shenglex.customtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shenglex.customtemplate.MyBundle
 
 class MyApplicationService {
 
